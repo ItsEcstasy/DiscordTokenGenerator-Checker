@@ -1,0 +1,11 @@
+/**
+ * Copyright (c) 2023 Ecstasy (Nix)
+ * 
+ * All rights reserved. This code or any portion thereof may not be reproduced 
+ * or used in any manner whatsoever without the express written permission of 
+ * the author, except for the purpose of use within the repository in which it resides.
+ * 
+ * Unauthorized copying, modification, distribution, or any form of misuse outside the scope 
+ * of this repository is strictly prohibited.
+ * 
+ */
