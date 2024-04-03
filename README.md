@@ -1,6 +1,6 @@
 # Discord Token Generator/Checker
 
-DiscoTGC Generates random discord tokens and checks their validity
+DiscoTGC Generates random discord tokens and checks they're validity
 
 ## Usage
 
